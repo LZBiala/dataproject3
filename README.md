@@ -1,2 +1,9 @@
 # dataproject3
+
 Project goal: Develop 2 classifiers to predict potential breast cancer using our dataset. One classifier using a Neural Network Model and another classifier using a Logistic Regression Model.
+
+Project team: Beat Breast Cancer (Chike U., Eddie S., Sumaya A., Dez W., Lito B.)
+
+Resource: 
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
