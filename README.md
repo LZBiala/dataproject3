@@ -8,4 +8,4 @@ Resource:
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-Tableau Public Project Link: https://public.tableau.com/profile/eddie2497#!/vizhome/breastcancer_15645961932540/Story1
+Tableau Public Project Link: https://public.tableau.com/profile/eddie2497#!/vizhome/breastcancer_15645961932540/MachineLearningResults?publish=yes
