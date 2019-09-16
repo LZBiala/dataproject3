@@ -2,10 +2,11 @@
 
 Project goal: Develop 3 classifiers to predict potential breast cancer using our dataset. 
 Classifiers used were: 
--Neural Network Model 
--Logistic Regression Model
+<br>
+-Neural Network Model <br>
+-Logistic Regression Model <br>
 -Support Vector Machine Model 
-
+<br>
 We compared the accuracy of the three classifiers because we believe we’ll find some good inferences from these models from our dataset.
 
 Project team: Beat Breast Cancer (Chike U., Eddie S., Sumaya A., Dez W., Lito B.)
