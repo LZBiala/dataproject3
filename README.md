@@ -1,6 +1,6 @@
 # dataproject3
 
-Project goal: Develop 3 classifiers to predict potential breast cancer using our dataset. 
+<b>Project goal:</b> Develop 3 classifiers to predict potential breast cancer using our dataset. 
 Classifiers used were: 
 <br>
 -Neural Network Model <br>
