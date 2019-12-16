@@ -3,7 +3,7 @@
 <b>Project goal:</b> Develop 3 classifiers to predict potential breast cancer using our dataset. 
 Classifiers used were: 
 <br>
--Neural Network Model <br>
+-Deep Learning Model <br>
 -Logistic Regression Model <br>
 -Support Vector Machine Model 
 <br>
