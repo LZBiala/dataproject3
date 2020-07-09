@@ -3,9 +3,9 @@
 <b>Project goal:</b> Develop 3 classifiers to predict potential breast cancer using our dataset. 
 Classifiers used were: 
 <br>
--Deep Learning Model <br>
--Logistic Regression Model <br>
--Support Vector Machine Model 
+* Deep Learning Model <br>
+* Logistic Regression Model <br>
+* Support Vector Machine Model 
 <br>
 We compared the accuracy of the three classifiers because we believe we’ll find some good inferences from these models from our dataset.
 
